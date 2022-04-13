@@ -238,6 +238,14 @@
     max-width: 90%;
 }
 
+.escala:hover {
+    transform: scale(1.5);
+}
+
+.sesgar:hover {
+    transform: skew(60deg, -30deg);
+}
+
 .imgCentrada {
     display: flex;
     justify-content: center;
